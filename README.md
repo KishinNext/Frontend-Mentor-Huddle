@@ -1,19 +1,19 @@
-# huddle
+# Frontend Mentor - Huddle landing page with single introductory section
 
-## Project setup
-```
-npm install
-```
+Welcome!! :wave:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Brief
+The challenge is to build out this landing page from the designs provided in the starter code.Keep the code as clean as possible. Be sure to use semantic HTML5 markup and reusable CSS classes.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The [challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Demo Result
+
+[Demo](https://cocky-brattain-de417b.netlify.app/)
+
+## Desing
+
+![1](./design/desktop-preview.jpg)
+![2](./design/mobile-design.jpg)
+
+Thanks for view :green_heart:
